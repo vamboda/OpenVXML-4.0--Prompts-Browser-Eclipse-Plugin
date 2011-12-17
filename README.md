@@ -1,4 +1,3 @@
-
 This project is eclipse plug-in for eclipse voice tools project called OpenVXML. OpenVXML is a fully functional Voice Application design and development tool. Based on a drag and drop interface the goal of the voice tools project is to help lower the curve for IVR voiceXML development and utilize the Eclipse license to give everyone the opportunity to participate. It is a runtime based development tool.
 
 I am interested in OpenVXML, i like to mess with it, how?
@@ -18,7 +17,7 @@ This plug-in is called prompts view or prompts browser. In OpenVXML environment,
 This plug-in deals with the only above  modules. There are various types of media settings to these modules. An OpenVMXL Voice Project contains large number of media modules as compared to other ones. As developer is human*, there is a 100% chance that he will miss out loads of the configurations to these modules or may miss out to change the default configurations. Since tester is also human, he may not test the application thoroughly (covering each path & each module & each setting which can be a grammar/ prompt/ DTMF) and due to which application can be a disaster in production environment. 
 
 How to Play with this Plug-in?
-Get the jay from 'dist ' folder and drop it in the 'eclipse/plugins' folder of  [OpenVXML] eclipse.
+Get the jar from 'dist ' folder and drop it in your 'eclipse/plugins' folder of  [OpenVXML] eclipse.
 
 *
 Human:The smartest creature in the world that still acts like a dumb animal from time to time.
