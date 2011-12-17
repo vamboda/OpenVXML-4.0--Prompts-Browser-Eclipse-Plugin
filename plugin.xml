@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.views">
+      <category
+            id="vtpdesktopviews"
+            name="Eclipse VTP Views"/>
+     <view
+            category="vtpdesktopviews"
+            class="org.eclipse.vtp.desktop.views.promptsbrowser.views.PromptBrowserView"
+            id="org.eclipse.vtp.desktop.views.promptsbrowserv2.views"
+            name="Prompts View"
+            icon="icons/optionset.png"/>
+   
+   </extension>
+        
+</plugin>
