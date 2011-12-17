@@ -1,4 +1,5 @@
-This project is eclipse plug-in eclipse voice tools project called OpenVXML. OpenVXML is a fully functional Voice Application design and development tool. Based on a drag and drop interface the goal of the voice tools project is to help lower the curve for IVR voiceXML development and utilize the Eclipse license to give everyone the opportunity to participate. It is a runtime based developmenttool.
+<pre>
+This project is eclipse plug-in for eclipse voice tools project called OpenVXML. OpenVXML is a fully functional Voice Application design and development tool. Based on a drag and drop interface the goal of the voice tools project is to help lower the curve for IVR voiceXML development and utilize the Eclipse license to give everyone the opportunity to participate. It is a runtime based development tool.
 
 I am interested in OpenVXML, i like to mess with it, how?
 They have pretty good documentation. Start right here: http://www.eclipse.org/vtp/documentation/getting-started/UsersGuide.php
@@ -19,7 +20,6 @@ This plug-in deals with the only above  modules. There are various types of medi
 How to Play with this Plug-in?
 Get the jay from 'dist ' folder and drop it in the 'eclipse/plugins' folder of  [OpenVXML] eclipse.
 
-
-
 *
 Human:The smartest creature in the world that still acts like a dumb animal from time to time.
+</pre>
