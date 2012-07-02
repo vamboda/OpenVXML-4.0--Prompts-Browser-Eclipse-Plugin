@@ -14,10 +14,7 @@ This plug-in is called prompts view or prompts browser. In OpenVXML environment,
 	• Question 	: A Question module is used when you would like to ask something simple of the user, not present them with several options that all require their own prompts and grammars. This could be a yes or no, a phone number, desired pizza toppings, etc.
 	• OptionSet 	: An OptionSet module provides the menu of options to the caller (along with the associated prompts and grammars for each option), and results in a branch, with one path for each option and then two more paths to handle caller errors. 
 	• Record	:When you wish to record a Caller's input verbatim instead of using speech recognition or checking for a DTMF value, you need a Record Module. This records the caller's speech into an audio file that can be archived, transcribed, emailed, etc.
-This plug-in deals with the only above  modules. There are various types of media settings to these modules. An OpenVMXL Voice Project contains large number of media modules as compared to other ones. As developer is human*, there is a 100% chance that he will miss out loads of the configurations to these modules or may miss out to change the default configurations. Since tester is also human, he may not test the application thoroughly (covering each path & each module & each setting which can be a grammar/ prompt/ DTMF) and due to which application can be a disaster in production environment. 
+This plug-in deals with the only above  modules. There are various types of media settings to these modules. An OpenVMXL Voice Project contains large number of media modules as compared to other ones. There is a high probability that lots of the module configurations are missed out. Since an IVR is a big network graph, testing each path & every module & each setting which can be a grammar/ prompt/ DTMF is very diifficult and incurs a huge cost. So this plugin can reduce the testing cost and simultaneously improves IVR quality by displaying the IVR module properties. Have fun! 
 
 How to Play with this Plug-in?
 Get the jar from 'dist ' folder and drop it in your 'eclipse/plugins' folder of  [OpenVXML] eclipse.
-
-*
-Human:The smartest creature in the world that still acts like a dumb animal from time to time.
