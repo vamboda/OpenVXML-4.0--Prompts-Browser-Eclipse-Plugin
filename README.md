@@ -8,7 +8,7 @@ Current stable version is at version 3.0
 Enhanced version is version 4.0 . This plug is only for openVXML 4.0 which is an advanced version. Please view this link for installing openVXML 4.0
 http://www.eclipse.org/forums/index.php/t/217010/
 
-What's the use of this eclipse plug-in or prompts view or what ever?
+What's the use of this eclipse plug-in or prompts view?
 This plug-in is called prompts view or prompts browser. In OpenVXML environment, you will play with drag & drop widgets to create voice application. And then configure these widgets with various settings like grammars, prompts, DTMF etc… Lets call these widgets as Modules.  This plug-in exposes all the media configurations to the media modules like following :
 	• PlayPrompt 	: A PlayPrompt is the most basic unit of the IVR – it simply cues up audio to be played by the voice browser. This can be TTS, pre-recorded audio, or dynamic combinations of prerecorded audio snippets to play dynamic data
 	• Question 	: A Question module is used when you would like to ask something simple of the user, not present them with several options that all require their own prompts and grammars. This could be a yes or no, a phone number, desired pizza toppings, etc.
